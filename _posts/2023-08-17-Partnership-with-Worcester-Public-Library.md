@@ -8,7 +8,7 @@ tags: [library, comunity]
 author: Gahna Adaval
 ---
 
-![Crepe]({{ '/assets/img/tbbp_partner.png' | relative_url }}){: .mx-auto.d-block :}
+![Partner]({{ '/assets/img/tbbp_partner.png' | relative_url }}){: .mx-auto.d-block :}
 
 The Brown Bag Project has recently partnered up with the Worcester Public Library (WPL) in order to supply patrons facing hygiene insecurity while dealing with homelessness, access to supplies that are not easily available!
 
