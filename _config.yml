@@ -21,9 +21,11 @@ author: The Brown Bag Project
 
 navbar-links:
   About Us: "aboutme"
-  # Resources:
-  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Resources:
+    - Brown Bag's Instagram: "https://www.instagram.com/thbrwnbgprjct/"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Newsletter:
+  Seva Sessions:
 ################
 # --- Logo --- #
 ################
