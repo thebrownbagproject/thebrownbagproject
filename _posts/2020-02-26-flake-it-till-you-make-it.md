@@ -2,12 +2,13 @@
 layout: post
 title: New Partnership with Worcester Public Library!
 subtitle: Resource access!
-cover-img: /assets/img/tbbp_partner.png
 thumbnail-img: /assets/img/tbbp_thumb.png
 share-img: /assets/img/tbbp_thumb.png
 tags: [library, comunity]
 author: Gahna Adaval
 ---
+
+![Crepe](https://beautifuljekyll.com/assets/img/tbbp_partner.png){: .mx-auto.d-block :}
 
 The Brown Bag Project has recently partnered up with the Worcester Public Library (WPL) in order to supply patrons facing hygiene insecurity while dealing with homelessness, access to supplies that are not easily available!
 
